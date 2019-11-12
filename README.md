@@ -68,3 +68,6 @@ Each state St is an RGB-D heightmap image representation at time step t.
 
 #### 2018 - [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching](https://arxiv.org/abs/1710.01330) 
 **Summary**: Pixel-wise probability predictions for four different grasping primitives. Manually annoted dataset, pixels get 0, 1 or neither. 
+ 
+#### 2019 - [Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly](https://arxiv.org/abs/1910.13675) 
+**Summary**: Kit assembling. Not really training data so: time-reverse disassembly. Learn policies for robotic assembly that can generalize to new objects. 
